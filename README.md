@@ -1,2 +1,2 @@
 # XamarinFormsMySQL
-This sample is used to connect directly to MySQL from Xamarin.
+This source is a sample for direct connection to MySQL from Xamarin.
